@@ -1,0 +1,5 @@
+classes=1
+train = /home/yotam/Desktop/darkflow2darknet/data/rgb/train.txt
+valid = /home/yotam/Desktop/darkflow2darknet/data/rgb/valid.txt
+names = /home/tevel/AI/tinyyolo4_3l_generic/obj.names
+backup = /root/catkin_ws/src/vision/src/ai_data/darknet_models/tinyyolo4_3l_generic/backup
